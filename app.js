@@ -10,5 +10,5 @@ app.get("/", (req, res) => {
     res.sendFile("index.html");
 });
 app.get('*', function(req, res){
-    res.send('Page Not Found 404', 404);
+    res.status(404).send("Error 404, Page not Found");
   });
