@@ -1,13 +1,13 @@
 {
   "name": "proportion_scaler",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small tool to calculate proportions",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Derwookietreiber",
+  "license": "Unlicense",
   "dependencies": {
     "express": "^4.17.1"
   }
