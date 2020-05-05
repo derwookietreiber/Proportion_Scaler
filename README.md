@@ -4,6 +4,8 @@ A small Tool which calculates proportions for resizing image for example. I crea
 ## Stack
 * Node.js
 * Express
+* Bootstrap 4.4.1
+* JQuery 3.5.1
 
 ## Installation
 Install Modules: `npm install`  
